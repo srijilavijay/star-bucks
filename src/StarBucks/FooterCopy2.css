@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding:10px 20px;
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(48, 47, 47);
+    
+}
+.paraStyle {
+    font-size:12px;
+    text-align:left;
+     margin-left:40px;
+     margin-top:0px;
+    }

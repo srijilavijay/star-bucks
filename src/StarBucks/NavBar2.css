@@ -1,0 +1,13 @@
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.headerLink
+{
+    color: black;
+    font-weight: bold;
+}
+.headerLink:hover {
+    color: rgba(0,98,65,255);
+}
+
